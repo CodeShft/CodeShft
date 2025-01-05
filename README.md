@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on Next.js , Typescript , React.js , MongoDB.
 
-- I'm interesting in Frontend technologies.
+-  ✔ I'm interesting in Frontend technologies.
 
   
