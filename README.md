@@ -1,4 +1,4 @@
-## Hi there and welcome to my Github page 👋
+## Welcome to my Github page 👋
 
 - 🔭 I’m currently working on:
   ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
